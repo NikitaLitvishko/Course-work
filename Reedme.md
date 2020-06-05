@@ -11,9 +11,17 @@ The program allows you to put objects in a warehouse and pick them up from there
   
 
 Class Warehouse is the main class with methods. There will be added more methods soon. Method changeQuantity allows you to change parametr of quantity in the object instanceses.
+  
+
 Class Items extends from the class Warehouse. It has general characteristics of all the items that will be added.
+  
+
 Another classes that extend from the class Items has unique information for their type. And can have their own methods.
+  
+
 Function findByNumber(findByName) allows you to find the information about item by it number(name).
+  
+
 You can create and add new object with function createInstance. It creates instance of the class and add it to the warehouse. If there was such an object it will throw error to the object 'errors'.
 
 
