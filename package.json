@@ -1,0 +1,13 @@
+{
+  "name": "warehouse",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "eslint": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Litvishko",
+  "license": "MIT"
+}
